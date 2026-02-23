@@ -37,6 +37,9 @@ SNHU/
 ├── CS-230/                          # Operating Platforms
 │   ├── CS 230 Project ... .docx     # Project: Software Design Document
 │   └── README.md                    # Course overview
+├── CS-250/                          # Software Development Lifecycle
+│   ├── ChadaTech_Sprint_Review...docx # Project: Sprint Review and Retrospective
+│   └── README.md                    # Course reflection and goals
 └── README.md                        # (This file)
 ```
 
@@ -59,6 +62,9 @@ A C++ console application that reads grocery transaction data, calculates item f
 
 **The Gaming Room (CS-230):**
 A comprehensive software design document for a multi-platform gaming application. This project involved interpreting client requirements, designing a scalable architecture, and outlining memory and platform-specific considerations for a cross-platform environment.
+
+**Agile Development and Sprint Review (CS-250):**
+A project demonstrating the application of Agile methodologies, specifically Scrum. This involved creating user stories, participating in sprint planning, and conducting a final sprint review and retrospective to evaluate the development process and team collaboration.
 
 ---
 
